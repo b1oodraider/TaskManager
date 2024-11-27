@@ -7,3 +7,6 @@
 5. Открыть в терминале
 6. Ввести данную команду:
 .\mvnw.cmd spring-boot:run -Pdocker-compose
+---------------------------------------
+
+Документация находится в файле OpenAPIDocumentation.yaml
